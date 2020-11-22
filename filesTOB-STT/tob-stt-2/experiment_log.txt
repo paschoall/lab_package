@@ -1,0 +1,877 @@
+
+----------User: 624144447----------- # USUARIO DO PESQUISADOR - DESCONSIDERADO PARA A AVALIAÇÂO
+---------------------------------
+[timestamp] 17:48:06
+[User] Hey
+[Bot] Hi
+---------------------------------
+[timestamp] 17:50:57
+[User] Hey
+[Bot] Hi
+---------------------------------
+[timestamp] 17:51:35
+[User] /help
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 17:51:48
+[User] Help me
+[Bot] Hi
+---------------------------------
+[timestamp] 17:52:02
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 17:52:09
+[User] Example of a equivalence class
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+---------------------------------
+[timestamp] 18:00:42
+[User] Hahaha
+[Bot] Hi
+---------------------------------
+[timestamp] 18:28:39
+[User] Hey
+[Bot] Hi
+
+----------User: 140067986-----------
+
+----------User: 1045424459-----------
+
+----------User: 1399619616-----------
+
+----------User: 790616670-----------
+
+----------User: 636628377-----------
+---------------------------------
+[timestamp] 17:40:12
+[User] What is a software fault
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:40:26
+[User] What is a software error
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:40:34
+[User] What is a software failure
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 17:45:12
+[User] What is a testing coverage
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 17:45:22
+[User] Example of coverage
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 17:45:33
+[User] Test sets
+[Bot] A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+---------------------------------
+[timestamp] 17:49:17
+[User] Representative
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 17:49:27
+[User] What is a representative
+[Bot] Sorry, I didn't quite catch that
+
+----------User: 317362020-----------
+---------------------------------
+[timestamp] 17:38:50
+[User] Example of a equivalence class
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+---------------------------------
+[timestamp] 17:39:24
+[User] Software error
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:39:45
+[User] Software fault
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:50:51
+[User] Structrural testing
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 17:51:03
+[User] Structrural testing
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 17:51:25
+[User] Structural testing
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 17:54:03
+[User] Funcional testing
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 17:56:31
+[User] Phases testing
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+---------------------------------
+[timestamp] 17:56:46
+[User] Main phases
+[Bot] Hi
+---------------------------------
+[timestamp] 17:57:36
+[User] Unit testing
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 17:58:18
+[User] Integration testing
+[Bot] Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+---------------------------------
+[timestamp] 17:59:07
+[User] Software error
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:59:29
+[User] Software fault
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 18:00:01
+[User] Software failure
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 18:01:02
+[User] Test selection criterion
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:01:57
+[User] Equivalente
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:02:01
+[User] Equivalence
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:02:42
+[User] Equivalence partitioning
+[Bot] Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+---------------------------------
+[timestamp] 18:05:38
+[User] Software testing
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+
+----------User: 137617224-----------
+---------------------------------
+[timestamp] 17:32:07
+[User] Example of a equivalence class
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+---------------------------------
+[timestamp] 17:35:00
+[User] what is software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:36:53
+[User] can a test only present failures and not an absence of it?
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 17:37:19
+[User] what are the limitations of software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:37:31
+[User] what are the limitations of testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+---------------------------------
+[timestamp] 17:50:20
+[User] what is a fault?
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:50:36
+[User] What is a mistake?
+[Bot] A mistake is a human action that inserts a fault (or defect) into the source code, for instance, a typo is a mistake.
+---------------------------------
+[timestamp] 17:50:47
+[User] What is a error?
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:51:00
+[User] Failure
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 18:00:58
+[User] testing coverage
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:01:08
+[User] coverage
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:01:18
+[User] set of tests
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:01:28
+[User] what is a set of tests
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:02:04
+[User] A test set
+[Bot] The test set is composed by several test cases that are used in a software testing activity.
+---------------------------------
+[timestamp] 18:02:21
+[User] Test coverage
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:03:10
+[User] Oracle test
+[Bot] A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+---------------------------------
+[timestamp] 18:03:18
+[User] Oracle testing
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:03:23
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 18:06:42
+[User] Structutal Testing
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:06:59
+[User] what is structural testing?
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 18:10:10
+[User] Problems with software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 18:12:07
+[User] Functional Testing
+[Bot] Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+---------------------------------
+[timestamp] 18:15:31
+[User] Unit Testing?
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 18:16:07
+[User] Integration Testing
+[Bot] Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+---------------------------------
+[timestamp] 18:17:42
+[User] test selection criterion
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:18:02
+[User] equivalence partitioning
+[Bot] Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+---------------------------------
+[timestamp] 18:35:06
+[User] bye
+[Bot] I don't understand what you mean
+
+----------User: 775219453-----------
+---------------------------------
+[timestamp] 17:49:38
+[User] /help
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+
+----------User: 543507252-----------
+---------------------------------
+[timestamp] 17:35:28
+[User] What is software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:35:43
+[User] What is software inspection?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 17:36:07
+[User] What is software verification?
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 17:37:34
+[User] What is a fault?
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:38:16
+[User] What is a failure?
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 17:50:59
+[User] What is testing coverage?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 17:52:28
+[User] What is coverage?
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 17:54:11
+[User] What is a structural testing?
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 17:54:42
+[User] What is functional testing?
+[Bot] Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+---------------------------------
+[timestamp] 17:57:18
+[User] What is unit testing?
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 17:57:34
+[User] What is integration testing?
+[Bot] Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+
+----------User: 381258794-----------
+
+----------User: 1227676722-----------
+---------------------------------
+[timestamp] 17:44:19
+[User] What is a successful test?
+[Bot] A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+---------------------------------
+[timestamp] 17:49:46
+[User] What is software fault?
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:50:14
+[User] What is software erros?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 17:50:32
+[User] What is software error?
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:50:55
+[User] What is failure?
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 17:55:09
+[User] What is test set?
+[Bot] The test set is composed by several test cases that are used in a software testing activity.
+---------------------------------
+[timestamp] 17:59:34
+[User] What is a test class
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 17:59:43
+[User] What is a test class?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:00:23
+[User] What is structural test?
+[Bot] A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+---------------------------------
+[timestamp] 18:02:00
+[User] What is structural testing?
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 18:06:56
+[User] What is selecion criterion?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:07:29
+[User] What is test selection criterion?
+[Bot] Sorry, I didn't quite catch that
+
+----------User: 1390280476-----------
+---------------------------------
+[timestamp] 17:35:02
+[User] What is software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:36:25
+[User] Definition of software testing
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:40:59
+[User] What is software fault?
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:41:19
+[User] Exemple software fault
+[Bot] A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+---------------------------------
+[timestamp] 17:41:36
+[User] Example software fault
+[Bot] A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+---------------------------------
+[timestamp] 17:49:16
+[User] Definition of failure
+[Bot] A failure occurs when the output of your program is different than expected. So a failure can occur when your factorial calculator program outputs an overflowed result, which is the result of an overflow error during it’s execution.
+---------------------------------
+[timestamp] 18:08:34
+[User] What is objective of software test
+[Bot] A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+---------------------------------
+[timestamp] 18:08:50
+[User] Example software testing
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:09:07
+[User] Example of software testing
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:09:24
+[User] Example of software teste
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:09:36
+[User] Example of software test
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:12:45
+[User] What is structural testing
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 18:13:28
+[User] What is integration test
+[Bot] A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+---------------------------------
+[timestamp] 18:13:46
+[User] Whats is funcional testing
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:14:08
+[User] What is functional testing
+[Bot] Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+---------------------------------
+[timestamp] 18:15:18
+[User] What is Unit testing
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 18:16:01
+[User] What is integration test
+[Bot] A test, in software testing, is the act of performing some assurance of both the correctness of a software and its validation of the project requisistes.
+
+----------User: 1185204142-----------
+---------------------------------
+[timestamp] 17:34:56
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 17:35:33
+[User] What os software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:50:56
+[User] What is failure?
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 17:51:12
+[User] What is error
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:51:27
+[User] What is fault
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:52:59
+[User] Show me an example of fault
+[Bot] Suppose you have a program that, by the software requirements, should accept names with up to 20 digits, but the software developer reserved only 15 digits in the database. That is a defect in the software definition and can lead to an error.
+---------------------------------
+[timestamp] 17:53:29
+[User] Show me an example of error
+[Bot] An example of an error could be the access of some unintended position of a vector, which would case a segmentation fault and stop the execution of the program.
+---------------------------------
+[timestamp] 17:54:05
+[User] Show me an example of failure
+[Bot] A failure occurs when the output of your program is different than expected. So a failure can occur when your factorial calculator program outputs an overflowed result, which is the result of an overflow error during it’s execution.
+---------------------------------
+[timestamp] 18:02:43
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 18:03:50
+[User] What is the Oracle problem?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 18:05:28
+[User] What is structural testing
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 18:06:48
+[User] What is functional testing
+[Bot] Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+---------------------------------
+[timestamp] 18:08:51
+[User] What are three fases of software testing
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 18:09:42
+[User] What are three phases of software testing
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 18:18:38
+[User] What is equivalency partitioning
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:19:09
+[User] What is fault based testing
+[Bot] The fault-based testing is a technique to create test sets that uses the information of the most likely and predefined faults. Hence, the test cases chosen have are better at revealing those likely faults (if present) in the program. To better focus the test case generation or selection, a fault model can be introduced that classifies the different types of faults.
+---------------------------------
+[timestamp] 18:24:50
+[User] Show me an example
+[Bot] In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+---------------------------------
+[timestamp] 18:27:22
+[User] Show me other example
+[Bot] In functional testing technique, the functionality of an application is tested by providing inputs to generate the desired outputs. Consider a bus ticket purchase system with the following requirement: The discount amount is calculated as follows: students can purchase up to 100 tickets per month, with a 50% discount; workers can buy up to 50 tickets a month, with a 30% discount; other users do not have discount on the ticket price. The functional testing concentrates in selection of test input (or data test) to test this functionality, for instance, selecting test input for each class of user of the bus (student, worker and others).
+---------------------------------
+[timestamp] 18:27:44
+[User] What is teste case
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:28:02
+[User] Show me example of teste case
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:28:17
+[User] Show me example of test case
+[Bot] I don't understand what you mean
+
+----------User: 1391795292-----------
+---------------------------------
+[timestamp] 17:37:47
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+
+----------User: 1278146997-----------
+---------------------------------
+[timestamp] 17:39:19
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 17:42:20
+[User] What is Software Fault?
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:43:22
+[User] What is Software Error?
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:45:38
+[User] What is Software Failure?
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 17:59:40
+[User] What is Structural testing
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 18:00:41
+[User] What is Functional testing
+[Bot] Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+---------------------------------
+[timestamp] 18:04:16
+[User] What is Unit Testing
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 18:04:48
+[User] What is Integration Testing?
+[Bot] Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+---------------------------------
+[timestamp] 18:07:28
+[User] What is test selection criterion?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:08:21
+[User] What is the criterion to do the test selection?
+[Bot] I don't understand what you mean
+
+----------User: 1265748661-----------
+---------------------------------
+[timestamp] 17:40:56
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 17:50:53
+[User] What is Oracle problema internet software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:51:15
+[User] What is Oracle problema?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 17:51:41
+[User] What is Oracle problem?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 17:52:47
+[User] Oracle problem
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 17:54:06
+[User] Structural testing
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 17:57:24
+[User] Functional testing
+[Bot] Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+---------------------------------
+[timestamp] 18:01:12
+[User] Unit testing
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 18:01:58
+[User] Integration testing
+[Bot] Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+---------------------------------
+[timestamp] 18:02:44
+[User] Test selection
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:04:31
+[User] Equivalence particioning
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:05:20
+[User] Partitioning
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:06:18
+[User] Software testing
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 18:07:16
+[User] Software fault
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 18:07:42
+[User] Error
+[Bot] Hi
+---------------------------------
+[timestamp] 18:07:50
+[User] Software error
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 18:08:10
+[User] Software failure
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+
+----------User: 338346243-----------
+---------------------------------
+[timestamp] 17:41:03
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 17:41:12
+[User] Example of a equivalence class
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+---------------------------------
+[timestamp] 17:41:42
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 17:46:59
+[User] What is software inspection?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 17:47:54
+[User] What can you do?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 17:48:37
+[User] How can I use this bot?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 17:48:59
+[User] Show me an example of error
+[Bot] Suppose you have a program that calculates the factorial of some input integer, but this program uses integers instead of long integers. An error would occur if you input some number that would cause an overflow in the program.
+---------------------------------
+[timestamp] 17:49:20
+[User] Show me an example of fault
+[Bot] A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+---------------------------------
+[timestamp] 17:49:52
+[User] How to test a software?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 17:50:45
+[User] What is software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 17:52:12
+[User] Is software testing a dynamic verification?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 17:56:56
+[User] What is a fault?
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 17:57:30
+[User] What is an error?
+[Bot] An error is a state of execution of the program which is not expected and may lead to an incorrect result.
+---------------------------------
+[timestamp] 17:57:54
+[User] What is a failure?
+[Bot] A failure is a result of the program which is incorrect or not expected. This is caused by an error.
+---------------------------------
+[timestamp] 18:03:09
+[User] What is structural testing?
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 18:03:55
+[User] What is functional testing?
+[Bot] Functional testing (or Black Box Testing) is a technique whereby the system is tested against the functional requirements/specifications. During the functional testing the internal logic of the system being tested is not known to the tester. Functional testing ensures that the requirements are properly satisfied by the system. This type of testing is not concerned with how processing occurs, but rather, with the results of processing. It simulates actual system usage but does not make any system structure assumptions. Functional testing is normally performed during the levels of System Testing and Acceptance Testing.
+---------------------------------
+[timestamp] 18:08:00
+[User] What are the phases of software testing?
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenance.
+---------------------------------
+[timestamp] 18:08:38
+[User] What is unit testing?
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 18:09:06
+[User] What is integration tests?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:09:19
+[User] What is integration testing?
+[Bot] Integration testing is the process of verifying the interactions among software components. Classical integration testing strategies, such as top-down and bottom-up, are often used with hierarchically structured software.
+---------------------------------
+[timestamp] 18:12:29
+[User] What is a test selection?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:12:44
+[User] What is a test selection criterion?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:13:01
+[User] What is a test criterion?
+[Bot] Sorry, I didn't quite catch that
+---------------------------------
+[timestamp] 18:13:49
+[User] What is test coverage?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:14:15
+[User] What is a test criteria?
+[Bot] I don't understand what you mean
+---------------------------------
+[timestamp] 18:14:52
+[User] What is equivalence partitioning?
+[Bot] Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+---------------------------------
+[timestamp] 18:17:09
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+
+----------User: 270689750-----------
+---------------------------------
+[timestamp] 17:49:01
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 17:49:08
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 17:49:13
+[User] Example of a equivalence class
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+---------------------------------
+[timestamp] 17:49:32
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 17:50:52
+[User] How to use equivalence partitioning
+[Bot] The equivalence partitioning criterion divides the input domain in several subsets (partitions) with no intersection and selects a test case for each partition. The idea is that each test case represents all input domain that partition class and, therefore, one test case for each class is enough for this testing criterion. The criterion considers valid and invalid equivalence classes. For example, you can separate invalid and valid inputs into two different subsets or classes.
+---------------------------------
+[timestamp] 17:54:32
+[User] What is equivalence partitioning
+[Bot] Equivalence partitioning is a functional testing criterion that involves partitioning the input domain into a collection of subsets (or equivalent classes). Data in each partition must behave the same way therefore only one condition needs to be tested. Similarly, if one condition in a partition doesn’t work, then none of the others will work.
+---------------------------------
+[timestamp] 17:54:54
+[User] What is equivalence class
+[Bot] An equivalency class represents a set of valid and invalid states for the input conditions. For example, if your input must be a number N between 1 and 100, then one (invalid) equivalency class is the set of numbers less than one, another (invalid) equivalency class is the set of numbers greater than 100 and the third (valid) is the set of numbers between 1 and 100.
+---------------------------------
+[timestamp] 17:59:13
+[User] Example of equivalence class
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+---------------------------------
+[timestamp] 18:00:03
+[User] How to use equivalence class
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:00:31
+[User] How to use equivalence class?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:15:28
+[User] What is fault
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 18:15:41
+[User] Example of fault
+[Bot] A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+
+----------User: 689864995-----------
+---------------------------------
+[timestamp] 18:01:09
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 18:01:13
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 18:09:43
+[User] what is a unit testing
+[Bot] Unit testing verifies the functioning in isolation of software elements that are separately testable. Depending on the context, these could be the individual subprograms or a larger component made of highly cohesive units. Typically, unit testing occurs with access to the code being tested and with the support of supporting tools. The programmers who wrote the code typically, but not always, conduct unit testing.
+---------------------------------
+[timestamp] 18:14:56
+[User] what is fault (testing)
+[Bot] Software testing is an activity of software engineering whose main goal is to validate the project requisites and to assert the software correctness, both before the deployment of the final product as well as during its maintenaice.
+---------------------------------
+[timestamp] 18:15:04
+[User] what is fault
+[Bot] Fault is an incorrect step, process, or data definition in computer program. Fault is the formal name of a bug. A software defect or bug is a condition in a software product which doesn’t meet a software requirement or end-user expectation.
+---------------------------------
+[timestamp] 18:21:54
+[User] what is Structural testing:
+[Bot] Structural testing (or White-Box testing) is a technique in which tests are derived from the knowledge of the software's structure or internal implementation. That way, the testing professional is able to check if a specific part of the code is correct. Unit testing is an instance of structural testing.
+---------------------------------
+[timestamp] 18:22:05
+[User] example of fault
+[Bot] A defect is an incorrect data definition. In your code, it could be an access of inexistent position in a vector, for instance.
+
+----------User: 843923207-----------
+---------------------------------
+[timestamp] 18:04:46
+[User] /start
+[Bot] Hi
+[Bot] Here are some examples you can ask me
+---------------------------------
+[timestamp] 18:04:51
+[User] What is an oracle?
+[Bot] An oracle is any human or mechanical agent that decides whether a program behaved correctly in a given test and accordingly results in a verdict of “pass” or “fail.” There exist many different kinds of oracles; for example, unambiguous requirements specifications, behavioral models, and code annotations. Automation of mechanized oracles can be difficult and expensive.
+---------------------------------
+[timestamp] 18:21:36
+[User] Example of a equivalence class
+[Bot] In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.In software testing, an equivalency class could be the set of strings of size less than or equal to 8, for example.
+---------------------------------
+[timestamp] 18:22:07
+[User] Ok
+[Bot] Hi
+---------------------------------
+[timestamp] 18:22:10
+[User] Hi
+[Bot] Hi
+---------------------------------
+[timestamp] 18:22:14
+[User] Hi
+[Bot] Hi
+---------------------------------
+[timestamp] 18:22:20
+[User] How are u?
+[Bot] Sorry, I didn't understand your question, could you repeat?
+---------------------------------
+[timestamp] 18:22:30
+[User] How are you?
+[Bot] Sorry, I didn't quite catch that
+
+----------User: 1300188017-----------
